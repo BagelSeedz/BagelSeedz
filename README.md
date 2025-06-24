@@ -3,7 +3,7 @@
 🧠 Software Engineering student at Rochester Institute of Technology<br/>
 ⛳ Freelance software contractor <br/>
 🎮 Passionate game developer<br/>
-🎸 I also play classical guitar<br/>
+🎸 Classical guitarist<br/>
 🪐 Want to see my projects? Check out my [website](https://bagelseedz.github.io/)
 
 # 💻 Tech Stack:
