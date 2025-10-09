@@ -4,7 +4,7 @@
 ⛳ Freelance software contractor <br/>
 🎮 Passionate game developer<br/>
 🎸 Classical guitarist<br/>
-🪐 Want to see my projects? Check out my [website](https://bagelseedz.github.io/) and the pinned repositories below!
+🪐 Want to see my projects? Check out my [website](https://bagelseedz.github.io/) and the [pinned repositories](https://github.com/BagelSeedz#user-87871784-pinned-items-reorder-form) below!
 
 # 💻 Tech Stack:
 ## Programming
